@@ -1,0 +1,24 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000O\u0000D\u0000E\u0000-\u0000J\u0000S\u0000-\u0000L\u0000E\u0000A\u0000R\u0000N\u0000I\u0000N\u0000G\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/Prajjaval08/NODE-JS-LEARNING#readme",
+  "bugs": {
+    "url": "https://github.com/Prajjaval08/NODE-JS-LEARNING/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajjaval08/NODE-JS-LEARNING.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "10filesync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.18.1"
+  }
+}
