@@ -15,10 +15,14 @@
   "type": "commonjs",
   "main": "10filesync.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev" : "nodemon app.js"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
     "lodash": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
