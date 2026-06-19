@@ -5,3 +5,7 @@ setTimeout(() => {
 }, 1000)
 
 console.log("i  m last one")
+
+setInterval(() => {
+    console.log("hi im inside ")
+}, 1000)
